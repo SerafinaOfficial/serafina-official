@@ -24,25 +24,14 @@
 
 <section id="biografia">
   <h2>Biografía</h2>
-  <p>Serafina es el nombre artístico de Agostina de Anta, nacida el 9 de agosto de 2007 en Olavarría, Buenos Aires, Argentina. Desde los 8 años, encontró en el canto una forma de comunicación y felicidad...</p>
-</section>
-
-<section id="videos">
-  <h2>Videos Destacados</h2>
-  <iframe src="https://www.youtube.com/embed/WEIANAoirGg" title="Adagio - Cover" allowfullscreen></iframe>
-</section>
-
-<section id="galeria">
-  <h2>Galería de Imágenes</h2>
-  <img src="img1.jpg" alt="Serafina 1">
-  <img src="img2.jpg" alt="Serafina 2">
+  <p>Serafina es el nombre artístico de Agostina de Anta, nacida el 9 de agosto de 2007 en Olavarría...</p>
 </section>
 
 <section id="donaciones">
   <h2>Apoyá el proyecto</h2>
   <p>Si colaborás con <strong>15 USD o más</strong>, accedés al libro <em>Acústica Musical</em>.</p>
   <a href="https://tecito.app/agosseri" target="_blank">Donar</a><br />
-  <a href="ACUSTICA_MUSICAL.pdf" download>📘 Descargar "Acústica Musical"</a>
+  <a href="ACUSTICA_MUSICAL.pdf" download>📘 Descargar \"Acústica Musical\"</a>
 </section>
 
 <section id="contacto">
@@ -57,3 +46,4 @@
 
 </body>
 </html>
+
